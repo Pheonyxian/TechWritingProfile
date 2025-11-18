@@ -140,7 +140,7 @@ Below are common problems developers encounter when using Git.
 |----------|-------------|----------|
 |`Permission denied (publickey)`|SSH key not added or GitHub not configured|Revisit SSH setup guide|
 |`fatal: not a git repository`|Command run outside a cloned repo|Use `cd` to navigate to the project folder|
-|`could not resolve host github.com`|No internet connection or network proxy|Check your network or run `git config --global --unset http.proxy|
+|`could not resolve host github.com`|No internet connection or network proxy|Check your network or run `git config --global --unset http.proxy`|
 |Authentication prompts every push|Using HTTPS instead of SSH|Update remote URL: `git remote set-url origin git@github.com:user/repo.git`|
 |Merge conflicts when pulling|Overlapping changes between branches|Run `git mergetool` to resolve, then `git commit`|
 |Branch not showing on GitHub|Push missing `--set-upstream`|Push again: `git push --set-upstream origin [branch]`|
