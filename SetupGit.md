@@ -149,6 +149,6 @@ Below are common problems developers encounter when using Git.
 
 ## 7. Next Steps
 * Learn about your team's branching strategies and naming conventions. Most teams will have a main branch, develop branch, several feature branches, and prefer if you name your personal working branches something like "[name]-[JIRA ticket]"
-* Explore the mergetool. Settling merge conflicts are very common. Feel free to find a tool other than the default if you'd prefer.
+* Explore the mergetool. Settling merge conflicts is very common. Feel free to find a tool other than the default if you'd prefer.
 * Explore `git log` and `git diff` to view commit history.
 * Learn `git stash` and `git revert` for version control safety.
