@@ -5,13 +5,12 @@
 ---
 
 ## Introduction
+Git is a tool that helps you keep track of changes you make to your work. It lets you go back if something breaks and makes it easy for multiple people to work on the same project without getting in each other’s way. It keeps projects organized and prevents mistakes from becoming permanent.
+
 This guide is intended for new developers setting up Git for the first time.  
 By the end, you’ll have the GitHub codebase cloned onto your local machine and be able to push changes to the repository.  
 No prior knowledge of Git or the command line is required.  
 **Estimated setup time:** 1 hour.
-
-## Intro
-Git is a tool that helps you keep track of changes you make to your work. It lets you go back if something breaks and makes it easy for multiple people to work on the same project without getting in each other’s way. It keeps projects organized and prevents mistakes from becoming permanent.
 
 ## 1. Using the Command Line
 
